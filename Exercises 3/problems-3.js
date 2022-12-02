@@ -8,9 +8,15 @@
 */
 
 function duplicateEncode(word) {
+   word for (let i=0; i<word.length;i++)
     
 }
 
 // Do not modify this code
 window.solutions = window.solutions || {}
 window.solutions.duplicateEncode = duplicateEncode
+
+
+
+
+
